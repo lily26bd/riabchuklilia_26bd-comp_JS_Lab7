@@ -1,0 +1,32 @@
+.app {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .input-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    flex: 1;
+    padding: 8px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  .todo-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    background-color: #f3f3f3;
+    padding: 8px;
+    border-radius: 4px;
+  }
+  
